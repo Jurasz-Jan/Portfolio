@@ -1,0 +1,22 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font: 300 11px/1.4 'Helvetica', sans-serif;
+  color: #F1E8B8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #7798AB;
+  overflow: hidden;
+  display: block;
+}
+
+
+
+/* @media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+} */
