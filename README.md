@@ -1,3 +1,12 @@
+# How to run this website:
+
+1. Easiest way- install 'serve' and run the build folder locally
+- download repo on your machine
+- download serve, for example: npm install -g serve
+- run serve -s build
+
+2. Second way: install all the dependencies listed below
+
 
 # Requirements:
 
