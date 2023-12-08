@@ -3,7 +3,8 @@
 1. Easiest way- install 'serve' and run the build folder locally
 - download repo on your machine
 - download serve, for example: npm install -g serve
-- run serve -s build
+- open build folder in terminal
+- run "serve" command
 
 2. Second way: install all the dependencies listed below
 
