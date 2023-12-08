@@ -4,7 +4,7 @@
 - download repo on your machine
 - download serve, for example: npm install -g serve
 - open build folder in terminal
-- run "serve" command
+- run "serve" command 
 
 2. Second way: install all the dependencies listed below
 
