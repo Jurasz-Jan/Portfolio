@@ -1,5 +1,5 @@
 # How to run this website:
-This website runs only locally.
+
 
 1. Easiest way- install 'serve' and run the build folder locally
 - download repo on your machine
@@ -9,6 +9,7 @@ This website runs only locally.
 
 2. Second way: install all the dependencies listed below
 
+This website runs only locally.
 
 # Requirements:
 
