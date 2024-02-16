@@ -1,10 +1,10 @@
-# How to run this website:
+# How to run it?
 
 
 1. Easiest way- install 'serve' and run the build folder locally
-- download repo on your machine
+- download repository on your machine
 - download serve, for example: npm install -g serve
-- open build folder in terminal
+- open build folder in your terminal
 - run "serve" command 
 
 2. Second way: install all the dependencies listed below
@@ -14,7 +14,7 @@ This website runs only locally.
 # Requirements:
 
 Exact dependencies of the project are listed in package.json.
-Here are listed names of used packages, and npm commands that can be used to easily install them.
+Used packages(and corresponding commands to install them via npm) are listed below.
 - react (npm i react)
 - emailjs/browser (npm i @emailjs/browser)
 - fortawesome/free-brands-svg-icons( npm i @fortawesome/free-brands-svg-icons)
@@ -27,6 +27,8 @@ Here are listed names of used packages, and npm commands that can be used to eas
 - react-loaders (npm i react-loaders)
 - react-router-dom (npm i react-router-dom)
 - SASS (npm i sass)
+
+
 
 
 
