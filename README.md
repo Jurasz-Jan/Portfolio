@@ -32,7 +32,6 @@ Used packages(and corresponding commands to install them via npm) are listed bel
 - SASS (npm i sass)
 
 
-This project does not serve any commercial purposes.
-
+This project does not serve any commercial purposes, and the website content is intended for parody purposes.
 
 
