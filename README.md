@@ -1,4 +1,4 @@
-# Check it out![https://portfolio-7983b.web.app/]
+# [Check it out!](https://portfolio-7983b.web.app/)
 
 
 # How to run it?
