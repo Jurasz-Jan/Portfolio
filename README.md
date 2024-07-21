@@ -1,34 +1,23 @@
-# How to run it?
+# Project Overview
+
+This project is a dynamic React-based website styled with Sass and animated using GSAP. It showcases modern web development practices and provides a visually engaging user experience.
+
+## Features
+- **React**: For building interactive UIs.
+- **Sass**: For advanced styling.
+- **GSAP**: For high-performance animations.
+- **EmailJS**: For handling email services.
+- **FontAwesome**: For iconography.
+- **React-Leaflet**: For mapping capabilities.
+- **React-Router-Dom**: For routing.
+
+## Setup and Installation
+
+### Option 1: Serve the Build
+1. Clone the repository.
+2. Install `serve` globally:
+   ```bash
+   npm install -g serve
 
 
-1. Easiest way- install 'serve' and run the build folder locally
-- download repository on your machine
-- download serve, for example: npm install -g serve
-- open build folder in your terminal
-- run "serve" command 
-
-2. Second way: install all the dependencies listed below
-
-This website runs only locally.
-
-# Requirements:
-
-Exact dependencies of the project are listed in package.json.
-Used packages(and corresponding commands to install them via npm) are listed below.
-- react (npm i react)
-- emailjs/browser (npm i @emailjs/browser)
-- fortawesome/free-brands-svg-icons( npm i @fortawesome/free-brands-svg-icons)
-- fortawesome/free-solid-svg-icons (npm i @fortawesome/free-solid-svg-icons)
-- fortawesome/react-fontawesome (npm i @fortawesome/react-fontawesome)
-- animate.css (npm i animate.css)
-- gsap-trial (npm i gsap-trial)
-- loaders.css (npm i loaders.css)
-- react-leaflet (npm i react-leaflet)
-- react-loaders (npm i react-loaders)
-- react-router-dom (npm i react-router-dom)
-- SASS (npm i sass)
-
-
-This project does not serve any commercial purposes, and the website content is intended for parody purposes.
-
-
+This website was made solely for educational purposes.
