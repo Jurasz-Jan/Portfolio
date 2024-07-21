@@ -11,13 +11,5 @@ This project is a dynamic React-based website styled with Sass and animated usin
 - **React-Leaflet**: For mapping capabilities.
 - **React-Router-Dom**: For routing.
 
-## Setup and Installation
-
-### Option 1: Serve the Build
-1. Clone the repository.
-2. Install `serve` globally:
-   ```bash
-   npm install -g serve
-
 
 This website was made solely for educational purposes.
