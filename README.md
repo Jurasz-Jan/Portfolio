@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is a dynamic React-based website styled with Sass and animated using GSAP. It showcases modern web development practices and provides a visually engaging user experience.
+This project is a dynamic React-based website styled with Sass and animated using GSAP. It showcases modern web development practices and provides a visually engaging user experience. 
 
 ## Features
 - **React**: For building interactive UIs.
