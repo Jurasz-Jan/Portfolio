@@ -3,8 +3,7 @@
 This project is a dynamic React-based website styled with Sass and animated using GSAP. It showcases modern web development practices and provides a visually engaging user experience. 
 You can accese the website here: https://portfolio-7983b.web.app/
 
-
-# Disclaimer: This project is for educational, satirical purposes. I do not own Tumblr nor Taylor Swift logo.
+### Disclaimer: This project is for educational, satirical purposes. I do not own logotypes used in the project
 ## Features
 - **React**: For building interactive UIs.
 - **Sass**: For advanced styling.
