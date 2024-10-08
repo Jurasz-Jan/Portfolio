@@ -13,6 +13,7 @@ This project is a dynamic React-based website styled with Sass and animated usin
 - **FontAwesome**: For iconography.
 - **React-Leaflet**: For mapping capabilities.
 - **React-Router-Dom**: For routing.
+- **calls to OpenStreetMap API**: used for drawing a map;
 
 
 This website was made solely for educational purposes.
